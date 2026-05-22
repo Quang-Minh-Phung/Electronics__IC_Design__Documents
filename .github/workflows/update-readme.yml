@@ -17,7 +17,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Run script
         run: python .github/scripts/update_readme.py
@@ -29,4 +29,3 @@ jobs:
           git add README.md
           git commit -m "🤖 Auto update README" || echo "No changes"
           git push
-``
