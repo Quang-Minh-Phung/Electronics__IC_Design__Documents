@@ -168,7 +168,7 @@ Repo hiện tại có 2 thư mục chính:
 
 ## 📌 Ghi chú nhỏ
 
-Mọi tài liệu trong repo đều nhằm mục đích học tập và chia sẻ 😀 nên mình không muốn bạn dùng chúng vào mục đích kinh doanh, lùa 🐔🐣 nha 😎
+Mọi tài liệu trong repo đều nhằm mục đích học tập và chia sẻ 😀 nên mình không muốn bạn dùng chúng vào mục đích tư lợi cá nhân (ví dụ: lùa 🐔🐣) nha 😎
 
 👉 Theo quan điểm cá nhân của mình thì:
 - 📘 Lớp 9 → có thể bắt đầu với **Điện Tử Số**  
