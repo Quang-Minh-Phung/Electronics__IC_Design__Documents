@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/repo-size/Quang-Minh-Phung/Electronics__IC_Design__Documents" />
   <img src="https://img.shields.io/github/last-commit/Quang-Minh-Phung/Electronics__IC_Design__Documents" />
   <img src="https://img.shields.io/github/stars/Quang-Minh-Phung/Electronics__IC_Design__Documents" />
-  <img src="https://img.shields.io/badge/Focus_On-Electronics__IC_Design-blue" />
+  <img src="https://img.shields.io/badge/Focus_on-Electronics__IC_Design-blue" />
 </p>
 
 <br>
