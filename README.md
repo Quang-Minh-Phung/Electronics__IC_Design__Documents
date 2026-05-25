@@ -115,6 +115,7 @@ Repo hiện tại có 2 thư mục chính:
 <!-- FILE_COUNT_START -->
 | Thư mục | Số file PDF |
 |----------|-------------|
+| Tai_Lieu_Minh_U | 0 |
 | Tai_Lieu_Tham_Khao | 187 |
 | **Tổng** | **187** |
 <!-- FILE_COUNT_END -->
