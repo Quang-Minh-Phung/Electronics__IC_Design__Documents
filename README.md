@@ -90,7 +90,7 @@ Repo hiện tại có 2 thư mục chính (bạn có thể click trực tiếp v
 - Là nơi mình lưu các tài liệu học thuật, đặc tả kỹ thuật.
 - Là nguồn để mình tham khảo khi viết tài liệu chia sẻ đến bạn 😁.
 
-### 📝 [Tài liệu chia sẻ từ Minh Ú](https://github.com/Quang-Minh-Phung/Electronics__IC_Design__Documents/tree/main/Tai_Lieu_Minh)
+### 📝 [Tài liệu chia sẻ từ Minh Ú](https://github.com/Quang-Minh-Phung/Electronics__IC_Design__Documents/tree/main/Tai_Lieu_Minh_U)
 - Đây là nơi tổng hợp các tài liệu mình tự biên soạn 😎.
 - Bao gồm:
   - File PDF về lý thuyết nhưng đọc vẫn dễ hiểu (chắc vậy 😅).
