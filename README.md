@@ -26,7 +26,7 @@
 Mình tên là **Quang Minh** (biệt danh: ***Minh Ú*** 😅), hiện đang làm nhân viên kỹ thuật phục vụ cho Biệt Đội Siêu Anh Hùng Marvell, chi nhánh Việt Nam, thành phố Hồ Chí Minh, quận 7.</P>Chuyên môn của mình là kiểm định thiết kế luận lý, xây dựng môi trường kiểm định và triển khai các mô hình luận lý tương đương để hỗ trợ bản thân và đồng đội các công việc liên quan đến kiểm định thiết kế luận lý cho các hệ thống tăng tốc và xử lý dữ liệu cần lưu trữ 🙂.</P>Mình tạo repo này để lưu trữ các tài liệu mình tự biên soạn và các tài liệu học thuật mình tổng hợp được trong quá trình tự học và làm việc 📚
 
 ![***Minh Ú*** và anh Phụng Hoàng - Quản lý trực tiếp của quản lý trực tiếp của Minh Ú và Minh Ú 😆](https://github.com/Quang-Minh-Phung/Electronics__IC_Design__Documents/blob/main/.github/Minh_U.jpg)
-***Minh Ú*** và anh ***Phụng Hoàng*** - Quản lý trực tiếp của quản lý trực tiếp của Minh Ú và Minh Ú 😆
+***Minh Ú*** (trái) và Quản lý trực tiếp của quản lý trực tiếp của Minh Ú và Minh Ú 😆
 ---
 
 ## 🚀 Repo này để làm gì?
