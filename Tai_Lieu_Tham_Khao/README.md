@@ -8,8 +8,8 @@
 |-----------|-------------|
 | Firmware_and_Scripting | 28 |
 | RTL_DE__Testbench_DV | 27 |
-| High_Speed_Storage | 22 |
 | Arch_and_uArch | 22 |
+| High_Speed_Storage | 22 |
 | Dien_Tu_Tuong_Tu | 17 |
 | AMBA_protocols | 14 |
 | Dien_Tu_So | 12 |
