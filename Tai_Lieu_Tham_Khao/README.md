@@ -10,7 +10,7 @@ Kho tài liệu này gồm các cuốn sách, dặc tả kỹ thuật được:
 
 ## 📂 Dashboard tài liệu
 <!-- DASHBOARD_START -->
-📊 **Tổng số PDF:** 187
+📊 **Tổng số PDF:** 186
 
 | Subfolder | Số file PDF |
 |-----------|-------------|
@@ -20,7 +20,7 @@ Kho tài liệu này gồm các cuốn sách, dặc tả kỹ thuật được:
 | High_Speed_Storage | 22 |
 | Dien_Tu_Tuong_Tu | 17 |
 | AMBA_protocols | 14 |
-| Dien_Tu_So | 12 |
+| Dien_Tu_So | 11 |
 | MCTP_SMBus_I2C_CRC | 9 |
 | Dien_Tu_Can_Ban | 9 |
 | DSP | 7 |

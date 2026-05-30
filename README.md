@@ -39,8 +39,8 @@ Gợi ý: Bạn có thể click vào hình để phóng to hình và xem tổng 
 | Thư mục | Số file PDF |
 |----------|-------------|
 | Tai_Lieu_Minh_U | 0 |
-| Tai_Lieu_Tham_Khao | 187 |
-| **Tổng** | **187** |
+| Tai_Lieu_Tham_Khao | 186 |
+| **Tổng** | **186** |
 <!-- FILE_COUNT_END -->
 
 ---
